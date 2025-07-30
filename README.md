@@ -138,7 +138,8 @@ _Liên hệ với mình qua Tiktok để trao đổi nhé: [Dr.Gifter](https://w
   <tr>
     <td>Shooting Heart</td>
     <td>Bắn tim ❤️ tạo chữ</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/738bf45a-ac89-432c-9b56-ca9ec53e53c0" /></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/47ff1fbd-b818-4331-8479-e4fb6da1c6d2" /></td>
+
   </tr>
   <tr>
     <td>Happy Birthday 🎂</td>
