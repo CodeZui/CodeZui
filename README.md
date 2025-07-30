@@ -15,7 +15,7 @@
 ## 🛠️ Tool & Language
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,dart,dotnet,flutter,vscode,github" />
 </div>
 
 ## 📝Free Projects
