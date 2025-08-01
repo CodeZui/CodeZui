@@ -139,13 +139,16 @@ _Liên hệ với mình qua Tiktok để trao đổi nhé: [Dr.Gifter](https://w
     <td>Shooting Heart</td>
     <td>Bắn tim ❤️ tạo chữ</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/47ff1fbd-b818-4331-8479-e4fb6da1c6d2" /></td>
-
+  </tr>
+  <tr>
+    <td>Shooting Heart V2</td>
+    <td>Bắn tim ❤️ tạo chữ có hiển thị ảnh</td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ccc96595-927a-423a-8b89-a8f426bb9327" /></td>
   </tr>
   <tr>
     <td>Happy Birthday 🎂</td>
     <td>Matrix Birthday Rain</td>
-    <td>
-      <img width="250" alt="image" src="https://github.com/user-attachments/assets/1ff58953-66c7-4298-a5c7-667bb34ad1e2"/></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/1ff58953-66c7-4298-a5c7-667bb34ad1e2"/></td>
   </tr>
   <tr>
     <td>Love QR</td>
