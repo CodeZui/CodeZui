@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,html,css,js,dart,dotnet,flutter,vscode,github" />
 </div>
 
-# 📊GitHub Stats  
+## 📊GitHub Stats  
 
 <div align="center "> 
   <img style="display: block;  
