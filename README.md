@@ -79,6 +79,12 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/4752002e-c230-4f51-bb2b-dbe1b3178153" /></td>
   </tr>
   <tr>
+    <td>3D Spinner</td>
+    <td>Vòng quay số 3D</td>
+    <td><a href="https://github.com/CodeZui/Gift_Spinner">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
+  </tr>
+  <tr>
     <td>Puzzle</td>
     <td>Ghép hình</td>
     <td><a href="https://github.com/CodeZui/Gift_Puzzle.git">Xem tại đây</a></td>
