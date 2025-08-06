@@ -174,7 +174,7 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   <tr>
     <td>Happy Birthday v2🎂</td>
     <td>Matrix Birthday Rain & Hình ảnh</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/f1b37b59-4d54-4d93-95a4-b2b8104b9855"/></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ecfc55b0-3fcc-48ab-91f1-f101b0e4fe53"/></td>
   </tr>
   <tr>
     <td>Love QR</td>
