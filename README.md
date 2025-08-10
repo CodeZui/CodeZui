@@ -44,9 +44,15 @@
   </tr>
   <tr>
     <td>HeartStar</td>
-    <td>Trái tim tạo từ các ngôi sao</td>
+    <td>Trái tim tạo từ các ngôi sao 🌟</td>
     <td><a href="https://github.com/CodeZui/Gift_HeartStar.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
+  </tr>
+  <tr>
+    <td>Flower</td>
+    <td>Vẽ bông hoa 🌸</td>
+    <td><a href="https://github.com/CodeZui/Gift_Flower.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/c9c891b4-89e5-4c28-a2c6-5c0032743e67" /></td>
   </tr>
   <tr>
     <td>LikeMe</td>
@@ -56,25 +62,25 @@
   </tr>
   <tr>
     <td>Letter</td>
-    <td>Thư tỏ tình thời 4.0</td>
+    <td>Thư tỏ tình thời 4.0 💌</td>
     <td><a href="https://github.com/CodeZui/Gift_Letter.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/2d97a76e-c66e-40b4-9911-160cd0b2ace5" /></td>
   </tr>
   <tr>
     <td>Scream</td>
-    <td>Hù dọa ma</td>
+    <td>Hù dọa ma 👻</td>
     <td><a href="https://github.com/CodeZui/Gift_Scream.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a71e501b-0e84-4050-8ee7-c3425307a37d" /></td>
   </tr>
   <tr>
     <td>ButtonLove</td>
-    <td>Nút bấm tình yêu</td>
+    <td>Nút bấm tình yêu 🔘</td>
     <td><a href="https://github.com/CodeZui/Gift_ButtonLove.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9af5059f-204a-4810-9ab7-5b2e69cbdfe1" /></td>
   </tr>
   <tr>
     <td>3D Box</td>
-    <td>Hộp quà 3D</td>
+    <td>Hộp quà 3D 🎁</td>
     <td><a href="https://github.com/CodeZui/Gift_3DBox.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/4752002e-c230-4f51-bb2b-dbe1b3178153" /></td>
   </tr>
@@ -91,20 +97,20 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/d314b176-5907-4edf-a1f0-8c343ee63dbb" /></td>
   </tr>
   <tr>
-    <td>BiietGiKo</td>
+    <td>BietGiKo</td>
     <td>Chúc mừng sinh nhật một cách cợt nhã</td>
     <td><a href="https://github.com/CodeZui/Gift_BietGiKo.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/afaca4af-c640-4894-b618-463823063ab4" /></td>
   </tr>
   <tr>
     <td>Firework</td>
-    <td>Hiệu ứng pháo hoa</td>
+    <td>Hiệu ứng pháo hoa 🎆</td>
     <td><a href="https://github.com/CodeZui/Gift_Firework.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/05bea29f-ea4c-49e3-b1c6-7e9459d990de" /></td>
   </tr>
   <tr>
     <td>Star</td>
-    <td>Vũ trụ đầy sao</td>
+    <td>Vũ trụ đầy sao 🌟</td>
     <td><a href="https://github.com/CodeZui/Gift_Star.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a1c499f5-508c-4f27-9f03-264925ed7061" /></td>
   </tr>
