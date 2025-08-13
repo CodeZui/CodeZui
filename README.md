@@ -49,6 +49,12 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
   </tr>
   <tr>
+    <td>RainText</td>
+    <td>Mưa ký tự 🌦️</td>
+    <td><a href="https://github.com/CodeZui/Gift_RainText.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/3b5eeb5f-083b-48e1-8e44-5b83de928043" /></td>
+  </tr>
+  <tr>
     <td>Flower</td>
     <td>Vẽ bông hoa 🌸</td>
     <td><a href="https://github.com/CodeZui/Gift_Flower.git">Xem tại đây</a></td>
