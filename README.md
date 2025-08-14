@@ -213,7 +213,7 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   </tr>
   <tr>
     <td>Universe Love 🌟</td>
-    <td>Vũ trụ và em</td>
+    <td>Vũ trụ tình yêu</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/0f627051-744f-49fc-8553-37898585eacd" /></td>
   </tr>
   <tr>
@@ -233,7 +233,7 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   </tr>
   <tr>
     <td>Universe Image 🌠</td>
-    <td>Vũ trụ hình ảnh</td>
+    <td>Vũ trụ và em</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/c68f8939-adad-4650-a327-680ddd48052f" /></td>
   </tr>
   <tr>
