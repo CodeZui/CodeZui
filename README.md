@@ -195,8 +195,24 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   </tr>
   <tr>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/1ff58953-66c7-4298-a5c7-667bb34ad1e2" /></td>
-    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ecfc55b0-3fcc-48ab-91f1-f101b0e4fe53" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/408e7d49-ddab-4713-8a8b-90379918079c" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ecfc55b0-3fcc-48ab-91f1-f101b0e4fe53" /></td>
+  </tr>
+  <tr>
+    <th colspan = "3">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "3">
+      <p> Những dòng ký tự được viết theo yêu cầu trải dài từ trên xuống như các con mưa. Nổi bật là những chữ được tào từ rất nhiều dấu "." đầy màu săc. Có 3 phiên bản khác nhau</p>
+      <ul>
+        <li>Ver 1: Matrix Rain Bỉrthday 🎂🌦️</li>
+        <li>Ver 2: Matrix Rain Bỉrthday 🎁🎂 (Dấu chấm to hơn)</li>
+        <li>Ver 3: Matrix Rain Bỉrthday 🎂 & Images 🖼️</li>
+      </ul>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...</i>
+    </td>
   </tr>
 </table>
 </div>
@@ -216,6 +232,21 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   <tr>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/47ff1fbd-b818-4331-8479-e4fb6da1c6d2" /></td>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ccc96595-927a-423a-8b89-a8f426bb9327" /></td>
+  </tr>
+    <tr>
+    <th colspan = "2">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "2">
+      <p>Những lời nhắn, lời chúc yêu thương xuất hiện bằng những trái tim được bắn ra từ chú mèo</p>
+      <ul>
+        <li>Ver 1: Shooting heart ❤️❤️❤️</li>
+        <li>Ver 2: Shooting heart ❤️ & Images 🖼️</li>
+      </ul>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...</i>
+    </td>
   </tr>
 </table>
 </div>
