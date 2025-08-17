@@ -31,7 +31,9 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
 
-## ⭐ Việt Nam ⭐
+<div align="center">
+  <h2>⭐ VIỆT NAM ⭐</h2>
+</div>
 
 <table>
   <tr>
@@ -178,33 +180,54 @@ _Liên hệ với mình qua Tiktok để trao đổi nhé: [Dr.Gifter](https://w
 
 _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
 
-<div align="center">
+---
 
+<div align="center">
+  <h3>🎁 Matrix Birthday Rain 🎂</h3>
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <th>Version 1</th>
+    <th>Version 2</th>
+    <th>Version 3</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/1ff58953-66c7-4298-a5c7-667bb34ad1e2" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ecfc55b0-3fcc-48ab-91f1-f101b0e4fe53" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/408e7d49-ddab-4713-8a8b-90379918079c" /></td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <h3>Shooting Heart ❤️❤️❤️</h3>
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <th>Version 1</th>
+    <th>Version 2</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/47ff1fbd-b818-4331-8479-e4fb6da1c6d2" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ccc96595-927a-423a-8b89-a8f426bb9327" /></td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
 <table>
   <tr>
     <th>Tên</th>
     <th>Mô Tả</th>
     <th>Minh họa</th>
-  </tr>
-  <tr>
-    <td>Shooting Heart</td>
-    <td>Bắn tim ❤️ tạo chữ</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/47ff1fbd-b818-4331-8479-e4fb6da1c6d2" /></td>
-  </tr>
-  <tr>
-    <td>Shooting Heart V2</td>
-    <td>Bắn tim ❤️ tạo chữ có hiển thị ảnh</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ccc96595-927a-423a-8b89-a8f426bb9327" /></td>
-  </tr>
-  <tr>
-    <td>Happy Birthday 🎂</td>
-    <td>Matrix Birthday Rain</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/1ff58953-66c7-4298-a5c7-667bb34ad1e2"/></td>
-  </tr>
-  <tr>
-    <td>Happy Birthday v2🎂</td>
-    <td>Matrix Birthday Rain & Hình ảnh</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ecfc55b0-3fcc-48ab-91f1-f101b0e4fe53"/></td>
   </tr>
   <tr>
     <td>Love QR</td>
