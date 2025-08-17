@@ -205,13 +205,13 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   </tr>
   <tr>
     <td colspan = "3">
-      <p> Những dòng ký tự được viết theo yêu cầu trải dài từ trên xuống như các con mưa. Nổi bật là những chữ được tào từ rất nhiều dấu "." đầy màu săc. Có 3 phiên bản khác nhau</p>
+      <p>Những dòng ký tự lần lượt trải dài từ trên xuống, tựa như một cơn mưa chữ trên màn hình. Nổi bật lên là những dòng chữ đặc biệt được ghép thành từ vô số dấu chấm nhỏ li ti, rực rỡ muôn màu. Chúng vừa tạo cảm giác lung linh, vừa khiến thông điệp trở nên sống động và khác biệt, như thể từng ký tự đều mang trong mình một sắc màu cảm xúc riêng để gửi gắm đến người nhận.</p>
       <ul>
         <li>Ver 1: Matrix Rain Bỉrthday 🎂🌦️</li>
         <li>Ver 2: Matrix Rain Bỉrthday 🎁🎂 (Dấu chấm to hơn)</li>
         <li>Ver 3: Matrix Rain Bỉrthday 🎂 & Images 🖼️</li>
       </ul>
-      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...</i>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...Thông qua Link dẫn hoặc QR Code</i>
     </td>
   </tr>
 </table>
@@ -220,11 +220,11 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
 ---
 
 <div align="center">
-  <h3>Shooting Heart ❤️❤️❤️</h3>
+  <h3>❤️🌸🍀Shooting Heart 🍀🌸❤️</h3>
 </div>
 
-<div align="center">
-  <table>
+<div align="center" style="width: 100%;">
+  <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <th>Version 1</th>
     <th>Version 2</th>
@@ -240,12 +240,46 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
   </tr>
   <tr>
     <td colspan = "2">
-      <p>Những lời nhắn, lời chúc yêu thương xuất hiện bằng những trái tim được bắn ra từ chú mèo</p>
+      <p>Những lời nhắn, lời chúc yêu thương sẽ không chỉ đơn thuần hiện ra trên màn hình, mà còn được gửi gắm một cách đặc biệt thông qua những trái tim nhỏ bé bay ra từ chú mèo dễ thương. Mỗi trái tim như mang theo một thông điệp ngọt ngào, lan tỏa niềm vui, hạnh phúc và sự bất ngờ đến người nhận, khiến khoảnh khắc trở nên ấm áp và đáng nhớ hơn.</p>
       <ul>
         <li>Ver 1: Shooting heart ❤️❤️❤️</li>
         <li>Ver 2: Shooting heart ❤️ & Images 🖼️</li>
       </ul>
-      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...</i>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...Thông qua Link dẫn hoặc QR Code</i>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <h3>❤️💬 Falling Text 3D 🗨️❤️</h3>
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <th>Version 1</th>
+    <th>Version 2</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/7d97c375-5f68-4144-902a-0531fa7c74ee" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/3e312693-aa6b-4d2b-bb0d-46e48c880a3c" /></td>
+  </tr>
+    <tr>
+    <th colspan = "2">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "2">
+      <p>Những dòng chữ sẽ lần lượt xuất hiện một cách ngẫu nhiên từ phía trên rơi xuống, như những thông điệp bất ngờ được thả trôi trong không gian. Người dùng có thể tự do tương tác bằng cách chạm vào điều hướng chúng theo ý muốn, tạo nên một trải nghiệm thú vị và sinh động.</p>
+      <ul>
+        <li>Ver 1: Falling Text ❤️</li>
+        <li>Ver 2: Falling text ❤️ & Images 🖼️</li>
+      </ul>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...Thông qua Link dẫn hoặc QR Code</i>
     </td>
   </tr>
 </table>
@@ -259,11 +293,6 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
     <th>Tên</th>
     <th>Mô Tả</th>
     <th>Minh họa</th>
-  </tr>
-  <tr>
-    <td>Falling Text</td>
-    <td>QR Tình yêu ❤️</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/259d6416-b0d5-426f-8552-69f33d2e71b9" /></td>
   </tr>
   <tr>
     <td>Universe Love 🌟</td>
