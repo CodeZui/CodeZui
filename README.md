@@ -178,7 +178,7 @@
 
 _Liên hệ với mình qua Tiktok để trao đổi nhé: [Dr.Gifter](https://www.tiktok.com/@dr.gifter306) 👌_
 
-_Có thể kết hợp nhiều mẫu lại theo yêu cầu_
+_Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
 
 ---
 
@@ -288,16 +288,45 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
 ---
 
 <div align="center">
+  <h3>🌌🌟 Universe ✨🌍🌌</h3>
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <th>Univer Love</th>
+    <th>Univer Images</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/0f627051-744f-49fc-8553-37898585eacd" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/c68f8939-adad-4650-a327-680ddd48052f" /></td>
+  </tr>
+    <tr>
+    <th colspan = "2">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "2">
+      <p>Những bức ảnh ấy như được thả trôi bồng bềnh giữa muôn vàn vì tinh tú, lặng lẽ trôi giữa dải ngân hà bao la. Chúng mang theo ký ức, nỗi nhớ và tình cảm chân thành, để rồi hóa thành một món quà tinh thần nhỏ bé nhưng lung linh, gửi trao đến người mình yêu thương nhất. Tựa như khi nhìn vào bức ảnh, ta không chỉ thấy khoảnh khắc, mà còn cảm nhận cả một vũ trụ chan chứa yêu thương đang nhẹ nhàng ôm lấy trái tim. </p>
+      <ul>
+        <li>Universe Love: Vũ trụ ảnh 🖼️ và hành tinh 🌍</li>
+        <li>Universe Images: Vũ trụ ảnh 🖼️</li>
+      </ul>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...Thông qua Link dẫn hoặc QR Code</i>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
 <table>
   <tr>
     <th>Tên</th>
     <th>Mô Tả</th>
     <th>Minh họa</th>
-  </tr>
-  <tr>
-    <td>Universe Love 🌟</td>
-    <td>Vũ trụ tình yêu</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/0f627051-744f-49fc-8553-37898585eacd" /></td>
   </tr>
   <tr>
     <td>Message Balloon 🎈</td>
@@ -313,11 +342,6 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
     <td>Birthday 🎂</td>
     <td>Hộp quà chúc mừng sinh nhật</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/184a0308-3c4e-4dfa-8bdd-ce7b8c51c592" /></td>
-  </tr>
-  <tr>
-    <td>Universe Image 🌠</td>
-    <td>Vũ trụ và em</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/c68f8939-adad-4650-a327-680ddd48052f" /></td>
   </tr>
   <tr>
     <td>Love Rain 🥰</td>
