@@ -294,8 +294,8 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
 <div align="center">
   <table>
   <tr>
-    <th>Univer Love</th>
-    <th>Univer Images</th>
+    <th>Universe Love 💝</th>
+    <th>Universe Images 🖼️</th>
   </tr>
   <tr>
     <td align="center"><img width="300" src="https://github.com/user-attachments/assets/0f627051-744f-49fc-8553-37898585eacd" /></td>
