@@ -230,7 +230,7 @@ _Có thể kết hợp nhiều mẫu lại theo yêu cầu_
     <th>Minh họa</th>
   </tr>
   <tr>
-    <td>Love QR</td>
+    <td>Falling Text</td>
     <td>QR Tình yêu ❤️</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/259d6416-b0d5-426f-8552-69f33d2e71b9" /></td>
   </tr>
