@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1298" height="804" alt="image" src="https://github.com/user-attachments/assets/5ecd5cbf-8fb8-4b64-aa3e-c0598943e7b3" /><div align="center">
   <img width="200" height="300" alt="Dr.Gifter Logo" src="https://github.com/user-attachments/assets/889120f1-785c-42b2-9d91-f4092dbb2380" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
   <h2> Dr.Gifter <br> ✨ Just A Gift For You ✨</h2>
 </div>
@@ -70,10 +70,10 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
   </tr>
   <tr>
-    <td>RainText</td>
-    <td>Mưa ký tự 🌦️</td>
-    <td><a href="https://github.com/CodeZui/Gift_RainText.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/3b5eeb5f-083b-48e1-8e44-5b83de928043" /></td>
+    <td>Song</td>
+    <td>Lời bài hát chạy theo nhạc 🎶 (Python)</td>
+    <td><a href="https://github.com/CodeZui/Gift_Song.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c" /></td>
   </tr>
   <tr>
     <td>Flower</td>
