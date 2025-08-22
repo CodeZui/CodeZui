@@ -1,4 +1,4 @@
-<img width="1298" height="804" alt="image" src="https://github.com/user-attachments/assets/5ecd5cbf-8fb8-4b64-aa3e-c0598943e7b3" /><div align="center">
+<div align="center">
   <img width="200" height="300" alt="Dr.Gifter Logo" src="https://github.com/user-attachments/assets/889120f1-785c-42b2-9d91-f4092dbb2380" style="border-radius: 50%; box-shadow: 0 8px 32px rgba(0,0,0,0.1);" />
   <h2> Dr.Gifter <br> ✨ Just A Gift For You ✨</h2>
 </div>
@@ -128,18 +128,6 @@
     <td>Chúc mừng sinh nhật một cách cợt nhã</td>
     <td><a href="https://github.com/CodeZui/Gift_BietGiKo.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/afaca4af-c640-4894-b618-463823063ab4" /></td>
-  </tr>
-  <tr>
-    <td>Firework</td>
-    <td>Hiệu ứng pháo hoa 🎆</td>
-    <td><a href="https://github.com/CodeZui/Gift_Firework.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/05bea29f-ea4c-49e3-b1c6-7e9459d990de" /></td>
-  </tr>
-  <tr>
-    <td>Star</td>
-    <td>Vũ trụ đầy sao 🌟</td>
-    <td><a href="https://github.com/CodeZui/Gift_Star.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a1c499f5-508c-4f27-9f03-264925ed7061" /></td>
   </tr>
   <tr>
     <td>Zodiac</td>
