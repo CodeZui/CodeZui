@@ -210,6 +210,40 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
 ---
 
 <div align="center">
+  <h3>🎁 Món Quà Bất Ngờ ❤️</h3>
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <th>Nhập pass</th>
+    <th>Lá Thư</th>
+    <th>Đọc Thư</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/311c2582-39c8-479b-b0f3-25003de40c91" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/ba63ab67-aedd-4aae-b8f4-07ee62f954df" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/319c66df-433a-4772-a831-001157e94da0" /></td>
+  </tr>
+  <tr>
+    <th colspan = "3">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "3">
+      <p>Hãy tạo nên một mật mã bí mật chỉ riêng hai người biết. Mỗi khi nhập đúng mật mã ấy, một bức thư chan chứa yêu thương sẽ được gửi đến người thương. Và sau cùng, một điều bất ngờ ngọt ngào vẫn đang chờ đợi để khiến trái tim họ thêm rộn ràng.</p>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...Thông qua Link dẫn hoặc QR Code</i> <br>
+      <i><strong>Đặc biệt: </strong>Phần bất ngờ cuối cùng có thể được tạo theo yêu cầu của bạn</i> <br>
+      <i><strong>Xem Demo: </strong> <a href="https://www.tiktok.com/@dr.gifter306/video/7541733860518726919">Video demo</a></i>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
   <h3>❤️🌸🍀Shooting Heart 🍀🌸❤️</h3>
 </div>
 
