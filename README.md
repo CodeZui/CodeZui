@@ -52,6 +52,8 @@
 
 > Xem Demo: [Video Demo](https://www.tiktok.com/@dr.gifter306/video/7538409662778019079)
 
+> Viết tiếp câu chuyện hoà bình: [Video](https://www.tiktok.com/@dr.gifter306/video/7543707329859046664) 
+
 ## 📝Free Projects
 
 <div align="center">
@@ -94,12 +96,6 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/2d97a76e-c66e-40b4-9911-160cd0b2ace5" /></td>
   </tr>
   <tr>
-    <td>Scream</td>
-    <td>Hù dọa ma 👻</td>
-    <td><a href="https://github.com/CodeZui/Gift_Scream.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a71e501b-0e84-4050-8ee7-c3425307a37d" /></td>
-  </tr>
-  <tr>
     <td>ButtonLove</td>
     <td>Nút bấm tình yêu 🔘</td>
     <td><a href="https://github.com/CodeZui/Gift_ButtonLove.git">Xem tại đây</a></td>
@@ -118,12 +114,6 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
   </tr>
   <tr>
-    <td>Puzzle</td>
-    <td>Ghép hình</td>
-    <td><a href="https://github.com/CodeZui/Gift_Puzzle.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/d314b176-5907-4edf-a1f0-8c343ee63dbb" /></td>
-  </tr>
-  <tr>
     <td>BietGiKo</td>
     <td>Chúc mừng sinh nhật một cách cợt nhã</td>
     <td><a href="https://github.com/CodeZui/Gift_BietGiKo.git">Xem tại đây</a></td>
@@ -134,12 +124,6 @@
     <td>12 Cung hoàng đạo</td>
     <td><a href="https://github.com/CodeZui/Gift_Zodiac.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/b4dd8eb0-4e22-43b9-bdd9-f769e04ca1ee" /></td>
-  </tr>
-  <tr>
-    <td>Arrow</td>
-    <td>Bắn cung thư giản</td>
-    <td><a href="https://github.com/CodeZui/Gift_Arrow.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5ca7bf4f-b2db-4a40-80f9-e7f217e62aeb" /></td>
   </tr>
   <tr>
     <td>Hacker</td>
@@ -379,10 +363,10 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7525722744193912072">Video demo</a></td>
   </tr>
   <tr>
-    <td>Birthday 🎂</td>
-    <td>Hộp quà chúc mừng sinh nhật</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/184a0308-3c4e-4dfa-8bdd-ce7b8c51c592" /></td>
-    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7522676647296896263">Video demo</a></td>
+    <td>IT Love 👨‍💻</td>
+    <td>Bày tỏ tình cảm với người thương với phong cách IT</td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/79bb0bb7-abb1-4588-b5c2-ea2a0959d22e" /></td>
+    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7544381902484983058">Video demo</a></td>
   </tr>
   <tr>
     <td>Love Rain 🥰</td>
