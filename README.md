@@ -228,6 +228,46 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
 ---
 
 <div align="center">
+  <h3>🎉Happy Birthday🎂</h3>
+</div>
+
+<div align="center" style="width: 100%;">
+  <table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th>Version 1</th>
+    <th>Version 2</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/9a08af51-c3cf-4277-b9ac-1d1947489326" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/69b798a2-8a7d-4341-9367-1563d05b39a0" /></td>
+  </tr>
+    <tr>
+    <th colspan = "2">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "2">
+      <p>Đây không chỉ đơn thuần là một món quà, mà còn là kỷ niệm đặc biệt gửi tặng đến người bạn yêu thương. Vào ngày trọng đại vốn chỉ đến duy nhất một lần trong năm, món quà này sẽ thay bạn nói lên tình cảm chân thành, sự trân trọng và những lời chúc tốt đẹp nhất. Một món quà nhỏ, nhưng chứa đựng tình yêu lớn – thật ý nghĩa và đáng nhớ.</p>
+      <ul>
+        <li>Ver 1: Hộp quà bất ngờ 🎁 </li>
+        <li>Ver 2: Thiệp chúc mừng ❤️ </li>
+      </ul>
+      <i><strong>Mục đích: </strong>Chúc mừng sinh nhật, Gửi lời nhắn yêu thương,...Thông qua Link dẫn hoặc QR Code</i> <br>
+      <i><strong>Xem Demo: </strong></i>
+      <ul>
+        <li>Ver 1: <a href="https://www.tiktok.com/@dr.gifter306/video/7522676647296896263">Video demo</a></li>
+        <li>Ver 2: <a href="#">Video demo</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+---
+
+<div align="center">
   <h3>❤️🌸🍀Shooting Heart 🍀🌸❤️</h3>
 </div>
 
