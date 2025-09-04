@@ -75,7 +75,7 @@
     <td>Prompt</td>
     <td>Tạo ảnh mô hình nhân vật 3D</td>
     <td><a href="https://github.com/CodeZui/Gift_Prompt.git">Xem tại đây</a></td>
-    <td><img width="150" alt="image" src="https://github.com/user-attachments/assets/124ce297-c12e-4cf8-894c-d350ed13aeaa" /></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/1869f669-476c-46ba-8aab-54b3a0584b8b" /></td>
   </tr>
   <tr>
     <td>Song</td>
