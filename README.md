@@ -78,12 +78,6 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
   </tr>
   <tr>
-    <td>Prompt</td>
-    <td>Tạo ảnh mô hình nhân vật 3D</td>
-    <td><a href="https://github.com/CodeZui/Gift_Prompt.git">Xem tại đây</a></td>
-    <td><img width="200" alt="image" src="https://github.com/user-attachments/assets/ead62e3e-b4b5-4816-8843-1c7451c3b917" /></td>
-  </tr>
-  <tr>
     <td>Song</td>
     <td>Lời bài hát chạy theo nhạc 🎶 (Python)</td>
     <td><a href="https://github.com/CodeZui/Gift_Song.git">Xem tại đây</a></td>
