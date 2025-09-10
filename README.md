@@ -120,16 +120,10 @@
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
   </tr>
   <tr>
-    <td>BietGiKo</td>
-    <td>Chúc mừng sinh nhật một cách cợt nhã</td>
-    <td><a href="https://github.com/CodeZui/Gift_BietGiKo.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/afaca4af-c640-4894-b618-463823063ab4" /></td>
-  </tr>
-  <tr>
-    <td>Zodiac</td>
-    <td>12 Cung hoàng đạo</td>
-    <td><a href="https://github.com/CodeZui/Gift_Zodiac.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/b4dd8eb0-4e22-43b9-bdd9-f769e04ca1ee" /></td>
+    <td>Netflix</td>
+    <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
+    <td><a href="https://github.com/CodeZui/Gift_Netflix.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
   </tr>
   <tr>
     <td>Hacker</td>
