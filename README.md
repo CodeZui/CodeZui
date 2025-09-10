@@ -385,6 +385,12 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <th>Demo</th>
   </tr>
   <tr>
+    <td>LikeMe Ver2 🌹</td>
+    <td>Cậu có thích tớ không ? (Pháo hoa 🎇)</td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/63ec7a3c-6de9-4e19-99ef-196ee6f1aa89" /></td>
+    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7521304467812257042">Video demo Ver1</a></td>
+  </tr>
+  <tr>
     <td>Message Balloon 🎈</td>
     <td>Bong bóng tin nhắn bí mật</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/50ed63db-42dc-47c5-9ca0-e63b511f4dd4" /></td>
