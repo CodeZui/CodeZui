@@ -71,6 +71,12 @@
     <td><a href="https://github.com/CodeZui/Gift_HeartStar.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
   </tr>
+    <tr>
+    <td>Netflix</td>
+    <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
+    <td><a href="https://github.com/CodeZui/Gift_Netflix.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
+  </tr>
   <tr>
     <td>Prompt</td>
     <td>Tạo ảnh mô hình nhân vật 3D</td>
@@ -118,12 +124,6 @@
     <td>Vòng quay số 3D</td>
     <td><a href="https://github.com/CodeZui/Gift_Spinner">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
-  </tr>
-  <tr>
-    <td>Netflix</td>
-    <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
-    <td><a href="https://github.com/CodeZui/Gift_Netflix.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
   </tr>
   <tr>
     <td>Hacker</td>
