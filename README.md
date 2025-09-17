@@ -387,7 +387,7 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
   <tr>
     <td>LikeMe Ver2 🌹</td>
     <td>Cậu có thích tớ không ? (Pháo hoa 🎇)</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/63ec7a3c-6de9-4e19-99ef-196ee6f1aa89" /></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/35432f3f-bbed-4156-a14e-36f0b4707c62" /></td>
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7550885693191359751">Video demo</a></td>
   </tr>
   <tr>
