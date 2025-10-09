@@ -26,10 +26,10 @@
   margin-right: auto;
   width:70% ;
   grid-column: 1/-1;" 
-     src="https://github-readme-stats.vercel.app/api?username=CodeZui&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" />
+     src="https://github-readme-stats.vercel.app/api?username=DrGifter&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=CodeZui&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrGifter&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=DrGifter&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" style="max-width: 150%;">
 
 <div align="center">
   <h2>⭐ VIỆT NAM ⭐</h2>
