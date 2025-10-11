@@ -175,13 +175,13 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
   <tr>
     <td>Mid-Autumn 🥮🏮</td>
     <td>Thả lồng đèn trung thu</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/cbe378aa-5c32-4ed6-a82f-ab05177bb1e0" /></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ea2e1ee5-b8e3-43ba-895b-d69934f15d57" /></td>
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></td>
   </tr>
   <tr>
     <td>Fill Heart ❤️💌</td>
     <td>Lắp đầy trái tim bằng tình yêu ❤️</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/ea2e1ee5-b8e3-43ba-895b-d69934f15d57" /></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/cbe378aa-5c32-4ed6-a82f-ab05177bb1e0" /></td>
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></td>
   </tr>
   <tr>
