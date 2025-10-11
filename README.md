@@ -79,6 +79,13 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><a href="https://github.com/CodeZui/Gift_Netflix.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
   </tr>
+  </tr>
+    <tr>
+    <td>EncryptFlower</td>
+    <td>Giải mã đoạn kỳ tự khó hiểu thành một bông hoa 💐</td>
+    <td><a href="https://github.com/DrGifter/Gift_EncryptFlower.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/3c71b81b-7f6c-472c-ad60-f9866f5fe745" /></td>
+  </tr>
   <tr>
     <td>Song</td>
     <td>Lời bài hát chạy theo nhạc 🎶 (Python)</td>
