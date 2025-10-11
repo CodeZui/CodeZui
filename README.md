@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-> Source Code: [Xem tại đây](https://github.com/CodeZui/Gift_VietNam.git)
+> Source Code: [Xem tại đây](https://github.com/DrGifter/Gift_VietNam.git)
 
 > Xem Demo: [Video Demo](https://www.tiktok.com/@dr.gifter306/video/7538409662778019079)
 
@@ -70,13 +70,13 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
   <tr>
     <td>HeartStar</td>
     <td>Trái tim tạo từ các ngôi sao 🌟</td>
-    <td><a href="https://github.com/CodeZui/Gift_HeartStar.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_HeartStar.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/10071097-5951-4607-87bd-834c07a38a90" /></td>
   </tr>
     <tr>
     <td>Netflix</td>
     <td>Tạo trang Netflix để chúc mừng, kỷ niệm hoặc lưu giữ hình ảnh</td>
-    <td><a href="https://github.com/CodeZui/Gift_Netflix.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Netflix.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/5fc5eaf2-fc37-49d5-a219-9f9086f28583" /></td>
   </tr>
   </tr>
@@ -89,61 +89,61 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
   <tr>
     <td>Song</td>
     <td>Lời bài hát chạy theo nhạc 🎶 (Python)</td>
-    <td><a href="https://github.com/CodeZui/Gift_Song.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Song.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c" /></td>
   </tr>
   <tr>
     <td>Flower</td>
     <td>Vẽ bông hoa 🌸</td>
-    <td><a href="https://github.com/CodeZui/Gift_Flower.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Flower.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/c9c891b4-89e5-4c28-a2c6-5c0032743e67" /></td>
   </tr>
   <tr>
     <td>LikeMe</td>
     <td>Hỏi Crush có thích mình không???</td>
-    <td><a href="https://github.com/CodeZui/Gift_LikeMe.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_LikeMe.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/d8b7e789-cf98-47fd-af50-f4ecc5eac831" /></td>
   </tr>
   <tr>
     <td>Letter</td>
     <td>Thư tỏ tình thời 4.0 💌</td>
-    <td><a href="https://github.com/CodeZui/Gift_Letter.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Letter.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/2d97a76e-c66e-40b4-9911-160cd0b2ace5" /></td>
   </tr>
   <tr>
     <td>ButtonLove</td>
     <td>Nút bấm tình yêu 🔘</td>
-    <td><a href="https://github.com/CodeZui/Gift_ButtonLove.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_ButtonLove.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9af5059f-204a-4810-9ab7-5b2e69cbdfe1" /></td>
   </tr>
   <tr>
     <td>3D Box</td>
     <td>Hộp quà 3D 🎁</td>
-    <td><a href="https://github.com/CodeZui/Gift_3DBox.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_3DBox.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/4752002e-c230-4f51-bb2b-dbe1b3178153" /></td>
   </tr>
   <tr>
     <td>3D Spinner</td>
     <td>Vòng quay số 3D</td>
-    <td><a href="https://github.com/CodeZui/Gift_Spinner">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Spinner">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
   </tr>
   <tr>
     <td>Hacker</td>
     <td>Hiệu ứng Hacker</td>
-    <td><a href="https://github.com/CodeZui/Gift_Hacker.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Hacker.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/0aeef4b5-46f4-414a-b8b8-50a947652449" /></td>
   </tr>
   <tr>
     <td>Crush</td>
     <td>Hộp quà tỏ tình với Crush</td>
-    <td><a href="https://github.com/CodeZui/Gift_Crush.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Crush.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/39e1dc5a-5949-4058-8027-2abe56dc6329" /></td>
   </tr>
   <tr>
     <td>Album</td>
     <td>Album kỷ niệm</td>
-    <td><a href="https://github.com/CodeZui/Gift_Album.git">Xem tại đây</a></td>
+    <td><a href="https://github.com/DrGifter/Gift_Album.git">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/7996ff9f-ffdb-40c5-86fa-4e3957cd3db0" /></td>
   </tr>
 </table>
@@ -176,7 +176,7 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td>Mid-Autumn 🥮🏮</td>
     <td>Thả lồng đèn trung thu</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/cbe378aa-5c32-4ed6-a82f-ab05177bb1e0" /></td>
-    <td><a href="">Video demo</a></td>
+    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></td>
   </tr>
   <tr>
     <td>Fill Heart ❤️💌</td>
