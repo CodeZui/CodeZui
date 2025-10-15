@@ -93,10 +93,10 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/a87b161e-ac4f-4a6c-ab30-af0461edb50c" /></td>
   </tr>
   <tr>
-    <td>Flower</td>
-    <td>Vẽ bông hoa 🌸</td>
-    <td><a href="https://github.com/DrGifter/Gift_Flower.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/c9c891b4-89e5-4c28-a2c6-5c0032743e67" /></td>
+    <td>WDay</td>
+    <td>Happy Vietnamese Woman's Day 💐❤️ (Không có tin nhắn)</td>
+    <td><a href="https://github.com/DrGifter/Gift_WDay.git">Xem tại đây</a></td>
+    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/227f7081-7a7c-4ccd-a828-1c9f19923877" /></td>
   </tr>
   <tr>
     <td>LikeMe</td>
@@ -127,12 +127,6 @@ _📹Video hướng dẫn: [Xem tại đây](https://drive.google.com/file/d/1xX
     <td>Vòng quay số 3D</td>
     <td><a href="https://github.com/DrGifter/Gift_Spinner">Xem tại đây</a></td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/9e042f12-aae3-403c-a3df-48dffe481721" /></td>
-  </tr>
-  <tr>
-    <td>Hacker</td>
-    <td>Hiệu ứng Hacker</td>
-    <td><a href="https://github.com/DrGifter/Gift_Hacker.git">Xem tại đây</a></td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/0aeef4b5-46f4-414a-b8b8-50a947652449" /></td>
   </tr>
   <tr>
     <td>Crush</td>
@@ -179,12 +173,6 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7556932231663586578">Video demo</a></td>
   </tr>
   <tr>
-    <td>Fill Heart ❤️💌</td>
-    <td>Lắp đầy trái tim bằng tình yêu ❤️</td>
-    <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/cbe378aa-5c32-4ed6-a82f-ab05177bb1e0" /></td>
-    <td><a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></td>
-  </tr>
-  <tr>
     <td>Message Balloon 🎈</td>
     <td>Bong bóng tin nhắn bí mật</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/50ed63db-42dc-47c5-9ca0-e63b511f4dd4" /></td>
@@ -207,6 +195,43 @@ _Có thể kết hợp nhiều mẫu lại, tạo Web, tạo QR theo yêu cầu_
     <td>Cơn mưa trái tim</td>
     <td><img width="250" alt="image" src="https://github.com/user-attachments/assets/3153ee58-0758-47ca-9b58-8110a28764d0" /></td>
     <td><a href="https://www.tiktok.com/@dr.gifter306/video/7528414558436756754">Video demo</a></td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+  <h3>💐 SPECIAL DAY ❤️</h3>
+</div>
+
+<div align="center">
+  <table>
+  <tr>
+    <th>Woman Day</th>
+    <th>Love Tree</th>
+    <th>Fill Heart</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/227f7081-7a7c-4ccd-a828-1c9f19923877" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/4f7d42b9-6b85-4191-a7df-49077dd0ea7e" /></td>
+    <td align="center"><img width="300" src="https://github.com/user-attachments/assets/75d96b67-09d3-42f6-9cea-6578fbc24a24" /></td>
+  </tr>
+  <tr>
+    <th colspan = "3">
+      Mô tả
+    </th>
+  </tr>
+  <tr>
+    <td colspan = "3">
+      <p>Gửi những lời yêu thương trân trọng nhất đến những người phụ nữ tuyệt vời nhất trong cuộc đời chúng ta — Mẹ, vợ yêu, bạn gái. Hãy dành tặng họ những dòng tin nhắn chan chứa cảm xúc, hay cùng nhau gìn giữ những kỷ niệm ngọt ngào và đáng nhớ</p>
+      <ul>
+        <li>Woman Day: <a href="https://www.tiktok.com/@dr.gifter306/video/7561444979328011538">Video demo</a></li>
+        <li>Love Tree: <a href="https://www.tiktok.com/@dr.gifter306/video/7559648254070181138">Video demo</a></li>
+        <li>Fill Heart: <a href="https://www.tiktok.com/@dr.gifter306/video/7559934989505252626">Video demo</a></li>
+      </ul>
+      <i><strong>Mục đích: </strong>Gửi lời nhắn yêu thương, lời chúc vào những ngày đặc biệt như 20/10, 8/3,...Thông qua Link dẫn hoặc QR Code</i> <br>
+    </td>
   </tr>
 </table>
 </div>
